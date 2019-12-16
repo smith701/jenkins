@@ -1,0 +1,16 @@
+Manifest-Version: 1.0
+Group-Id: io.jenkins.plugins
+Short-Name: demo
+Long-Name: TODO Plugin
+Minimum-Java-Version: 1.8
+Plugin-Version: 1.0-SNAPSHOT (private-12/16/2019 15:48-SmithWiggilesWo
+ rth)
+Hudson-Version: 2.164.1
+Jenkins-Version: 2.164.1
+Plugin-Developers: 
+Support-Dynamic-Loading: true
+Libraries: /home/SmithWiggilesWorth/smith/demo/kane/demo/src/main/reso
+ urces,/home/SmithWiggilesWorth/smith/demo/kane/demo/target/classes
+Resource-Path: /home/SmithWiggilesWorth/smith/demo/kane/demo/src/main/
+ webapp
+
